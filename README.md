@@ -1,10 +1,10 @@
-Pembuat Kode QR Sederhana (Simple QR Code Generator) 🐍
+#Pembuat Kode QR Sederhana (Simple QR Code Generator) 🐍
 Sebuah skrip Python sederhana berbasis terminal (CLI) untuk membuat gambar Kode QR dari input teks atau URL.
 
-📜 Tentang Proyek
+#📜 Tentang Proyek
 Proyek ini adalah alat sederhana yang memungkinkan pengguna untuk dengan cepat mengubah data teks, seperti link website, nomor telepon, atau pesan singkat, menjadi sebuah gambar Kode QR yang bisa disimpan. Program ini sepenuhnya berjalan di terminal.
 
-✨ Fitur
+#✨ Fitur
 Interaktif: Meminta input dari pengguna untuk data yang akan di-encode.
 
 Kustomisasi Nama File: Pengguna dapat menentukan sendiri nama file untuk gambar Kode QR yang akan disimpan.
@@ -13,7 +13,7 @@ Sederhana: Kode yang ringan dan mudah dipahami, cocok untuk pemula.
 
 Dependensi Minimal: Hanya memerlukan pustaka qrcode dan Pillow.
 
-🚀 Cara Menggunakan
+#🚀 Cara Menggunakan
 Untuk menjalankan proyek ini di komputermu, ikuti langkah-langkah berikut:
 
 Clone Repositori Ini
